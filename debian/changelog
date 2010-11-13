@@ -1,4 +1,22 @@
-passenger (3.0.0-1bbox3) hardy; urgency=low
+passenger (3.0.0-1bbox3~hardy4) hardy; urgency=low
+
+  * Remove upstream packaging script
+
+ -- John Leach <john@brightbox.co.uk>  Sat, 13 Nov 2010 10:59:03 +0000
+
+passenger (3.0.0-1bbox3~hardy3) hardy; urgency=low
+
+  * Added fastthread dependency
+
+ -- John Leach <john@brightbox.co.uk>  Sat, 13 Nov 2010 10:00:49 +0000
+
+passenger (3.0.0-1bbox3~hardy2) hardy; urgency=low
+
+  * Bumped version to force rebuild against libev now in ppa
+
+ -- John Leach <john@brightbox.co.uk>  Fri, 12 Nov 2010 22:31:06 +0000
+
+passenger (3.0.0-1bbox3~hardy1) hardy; urgency=low
 
   * Fixed clean of vendored libev
 
